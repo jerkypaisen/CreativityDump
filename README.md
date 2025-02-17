@@ -2,6 +2,8 @@
 Output all creativity on your server to files.
 
 ## How to use
+https://x.com/i/status/1891441383199613373
+
 Open the F1 console with admin and enter the "alldump" command!
 
 管理者で、F1コンソール開いてalldumpってうって。
